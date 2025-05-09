@@ -12,7 +12,7 @@ Botium Toys is expanding its online presence, serving customers both in the U.S.
 - Protect critical infrastructure.
 - Ensure regulatory compliance, especially with online payment processing and business activities in the **European Union (EU)**.
 
-## 🎯 Audit Objectives
+## 🎯 Objectives
 
 The objectives of this internal IT audit are to:
 
