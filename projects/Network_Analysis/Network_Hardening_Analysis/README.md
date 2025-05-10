@@ -26,7 +26,7 @@ The objectives of this exercise are to:
 
 ## 📁 Files Included
 
-- `Security_Risk_Assessment_Report.pdf`: A two-part document containing:
+- `Security_risk_assessment_report.pdf`: A two-part document containing:
 
   - Identification of three key hardening practices:
     - Enforcing password policies.
