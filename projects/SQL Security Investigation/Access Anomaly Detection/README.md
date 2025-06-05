@@ -22,7 +22,7 @@ The objectives of this investigation were to:
 
 ## 📁 Files Included
 
-- `Apply filters to SQL queries`:  
+- `Apply filters to SQL queries.pdf`:  
   This document contains all the results of the SQL-based security investigation exercise. It includes:
 
   1. **Project Description** 
