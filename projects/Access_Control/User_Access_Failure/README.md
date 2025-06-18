@@ -24,8 +24,8 @@ The objectives of this exercise are to:
 
 ## 📁 Files Included
 
-* `Accounting_exercise`: A review of system event logs to identify suspicious activity, detect vulnerabilities, and trace user behavior related to the incident.
-* `Access_control_worksheet`: A structured document covering:
+* `Accounting_exercise.xlsx`: A review of system event logs to identify suspicious activity, detect vulnerabilities, and trace user behavior related to the incident.
+* `Access_control_worksheet.pdf`: A structured document covering:
   - **Incident Summary**: Timeline and actors involved in the security breach attempt.
   - **Control Issues**: Key weaknesses, such as excessive privileges and inactive account management.
   - **Recommendations**:
