@@ -34,7 +34,7 @@ The objectives of this exercise are to:
     - Transition to TLS encryption
     - Auditing and monitoring mechanisms
 
-* `NIST SP 800-30 Rev. 1`:  
+* `NIST SP 800-30 Rev. 1.pdf`:  
   A summarized reference guide including:
   - **Threat Sources**: Internal, external, and environmental threat categories.
   - **Threat Events**: Examples such as exfiltration, DoS, certificate spoofing, and MITM attacks.
