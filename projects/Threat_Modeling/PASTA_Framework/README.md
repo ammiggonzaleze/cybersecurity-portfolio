@@ -20,9 +20,9 @@ As part of the company’s growing security team, the objective was to build a t
 
 ## 📁 Included Files
 
-- `PASTA_data_flow_diagram.pdf`: Diagram illustrating data flow within the application, including user search and inventory interactions.
-- `PASTA_attack_tree.pdf`: Sample attack tree highlighting attack vectors such as SQL injection, session hijacking, and weak credentials.
-- `PASTA_worksheet.pdf`: Comprehensive documentation of all seven PASTA stages applied to the sneaker app context, including detailed threat and risk analyses.
+- `PASTA data flow diagram.pdf`: Diagram illustrating data flow within the application, including user search and inventory interactions.
+- `PASTA attack tree.pdf`: Sample attack tree highlighting attack vectors such as SQL injection, session hijacking, and weak credentials.
+- `PASTA worksheet.pdf`: Comprehensive documentation of all seven PASTA stages applied to the sneaker app context, including detailed threat and risk analyses.
 
 ## 🛡️ Skills Demonstrated
 
