@@ -12,4 +12,4 @@ The goal is **understanding and skill reinforcement**, not solution dumping.
 
 ---
 
-🕒 Last updated: _TBD_
+🕒 Last updated: _01/26/2026_
